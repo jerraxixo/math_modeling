@@ -1,6 +1,6 @@
 # Задание 0 
-**Матрица находится в файле X-Матрица.xlsx** ,
-**Матрица на гугл диске** - [Google sheets](https://docs.google.com/spreadsheets/d/1ZGQmSy1kTl4EOLnHBcyetVEw9B5OUvyL/edit?usp=sharing&ouid=115741536613049067555&rtpof=true&sd=true)
+* Матрица находится в файле X-Матрица.xlsx, Матрица на гугл диске - [Google sheets](https://docs.google.com/spreadsheets/d/1ZGQmSy1kTl4EOLnHBcyetVEw9B5OUvyL/edit?usp=sharing&ouid=115741536613049067555&rtpof=true&sd=true)
+* Предложения по улучшению находятся в файле X-matrix_add.docx, а также в [Google Docs](https://docs.google.com/document/d/1AMlDWFt3QehrSnJp8k6Uz2a01V0MBqGhyQTKquuEUwk/edit?usp=sharing)
 ### Цель: 
 
 Построить Х-Матрицу: план и результативность прохождения учебного курса
