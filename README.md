@@ -5,3 +5,4 @@
 * Lab-1 - Общее описание исследования на торгах
 * [Lab-2](https://github.com/jerraxixo/math_modeling/tree/lab-2) - Выработка рекомендаций поведений трейдера на основе паттернов и индикаторов
 * [Lab-4](https://github.com/jerraxixo/math_modeling/tree/lab-4) - Симплекс метод
+* [Lab-6](https://github.com/jerraxixo/math_modeling/tree/lab-6) - Модель Хольта-Уинтерса
